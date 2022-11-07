@@ -1,5 +1,5 @@
 # CAS-BP
-## cuffless blood pressure measurement using smartwatches: a large-scale validation study
+## Cuffless blood pressure measurement using smartwatches: a large-scale validation study
 ![](https://github.com/zdzdliu/CAS-BP/blob/main/fig1.png)
 ## Abstract
 Objectives: Cuffless measurement techniques provide valuable tools for continuous blood pressure (BP) monitoring, which is important for diagnosing and managing hypertension. However, the performance of current cuffless BP solutions is controversial due to inadequate validation. This study assessed the feasibility of cuffless BP measurement in a large and diverse cohort of participants.
