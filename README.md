@@ -1,0 +1,11 @@
+# CAS-BP
+## cuffless blood pressure measurement using smartwatches: a large-scale validation study
+![](https://github.com/zdzdliu/CAS-BP/blob/main/fig1.png)
+## Abstract
+Objectives: Cuffless measurement techniques provide valuable tools for continuous blood pressure (BP) monitoring, which is important for diagnosing and managing hypertension. However, the performance of current cuffless BP solutions is controversial due to inadequate validation. This study assessed the feasibility of cuffless BP measurement in a large and diverse cohort of participants.
+Methods: 3077 participants (18-75 years, 65.16% females, 35.91% hypertensives) were enrolled and followed up for about one month. Electrocardiogram, pulse pressure wave, and multi-wavelength photoplethysmogram signals were simultaneously recorded using smartwatches, with dual-observer auscultation systolic BP (SBP) and diastolic BP (DBP) as their reference. Mainstream state-of-art methods, including pulse transit time (PTT), traditional machine learning (TML), and deep learning (DL)-based models were evaluated.
+Results: With a calibration-based strategy, the best-performing model achieved estimation errors of 1.33±6.43 mmHg DBP and 2.31±9.57 mmHg SBP in the overall population; the estimation errors of SBP were reduced in normotensive (1.97±7.85 mmHg) and young (0.24±6.62 mmHg) participants. With a calibration-free strategy, the best-performing model achieved estimation errors of -0.29±8.78 mmHg DBP and -0.71±13.04 mmHg SBP.
+Conclusion: The smartwatch measures DBP well across participants and SBP in normotensive and younger participants with calibration, but the performance degrades significantly when applied in heterogeneous populations involving hypertensive and older participants. The availability of measuring BP without calibration is limited in routine settings.
+Significance: We provide a large-scale benchmark for emerging investigations on cuffless BP measurement. Our results also highlight the need to explore extra signals or principles to enhance the accuracy of cuffless BP techniques in large-scale heterogeneous populations.
+## Experimental protocol
+![](https://github.com/zdzdliu/CAS-BP/blob/main/fig2.png)
