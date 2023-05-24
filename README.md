@@ -1,5 +1,5 @@
 # CAS-BP
-## Cuffless blood pressure measurement using smartwatches: a large-scale validation study
+## Cuffless Blood Pressure Measurement Using Smartwatches: A Large-scale Validation Study
 ![](https://github.com/zdzdliu/CAS-BP/blob/main/fig1.png)
 ## Abstract
 
