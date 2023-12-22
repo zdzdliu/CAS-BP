@@ -35,9 +35,9 @@ As an example, participant `BA2001` is illustrated as follows:
 
     ├── BA2001               <- Participant BA2002
         |── BA2001_1_1          <- Recording 1 of Participant BA2002 collected on day D.
-            |── desc.csv      <- Participant BA2001's description file
-            |── ppg_ecg.csv      <- Participant BA2001's ECG and PPG waveform file
-            |── desc.csv      <- Participant BA2001's PPW waveform file
+            |── desc.csv            <- Participant BA2001's description file
+            |── ppg_ecg.csv         <- Participant BA2001's ECG and PPG waveform file
+            |── ppw.csv             <- Participant BA2001's PPW waveform file
         |── BA2001_1_2          <- Recording 2 of Participant BA2001 collected on day D.
         |── BA2001_1_3          <- Recording 3 of Participant BA2001 collected on day D.
         |── BA2001_2_1          <- Recording 1 of Participant BA2001 collected on day D+7.
