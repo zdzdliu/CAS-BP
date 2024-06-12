@@ -30,7 +30,7 @@ Example data files, provide researchers a direct look at the data format before 
 
 ## Data Access
 
-CAS-BP dataset part 1 (Dataset-1) is available from the corresponding author upon reasonable request, while CAS-BP dataset part 2 (Dataset-2) is not publicly available due to privacy and commercial considerations. To gain access to the full Dataset-1, please complete form **CAS_BP_Study_Data_Access_Request.pdf** in the repository and send it to fen.miao@siat.ac.cn. The submitted Data Access Request Form should include the following information:
+CAS-BP dataset part 1 (Dataset-1) is available from the corresponding author upon reasonable request, while CAS-BP dataset part 2 (Dataset-2) is not publicly available due to privacy and commercial considerations. To gain access to the full Dataset-1, please complete form **CAS_BP_Study_Data_Access_Request.pdf** in the repository and send it to fen.miao@siat.ac.cn or fenmiao@uestc.edu.cn. The submitted Data Access Request Form should include the following information:
 
 - Principal investigator information
   - Academic credentials, affiliation, and contact information
